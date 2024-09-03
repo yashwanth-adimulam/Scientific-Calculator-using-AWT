@@ -8,4 +8,4 @@ This is a simple calculator using AWT in Java
 ## How to run the repo
 1. Make sure that you've java installed on your system
 2. Then make a file named "AwtCalculator.java" on your system
-3. Then excute the file
+3. Then execute the file
